@@ -21,6 +21,10 @@ an order on its own. Paper trading is the default.
 > [github.com/Jakeschincariol/trader-skill](https://github.com/Jakeschincariol/trader-skill).
 > This repo is its day-trading sequel: the Trader skill v2.
 
+> **Trading NSE and BSE?** The India edition (11 `india-*` skills: IST and NSE
+> holidays, circuit limits, Indian charges, Zerodha Kite) lives in
+> [`india-day-trader-skill/`](india-day-trader-skill/). See its README to install.
+
 ## Install
 
 Paste this into Claude:
